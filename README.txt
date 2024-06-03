@@ -34,5 +34,7 @@ int main (void)
 gcc -o main.exe main.c
 ----- LINUX -----
 gcc main.c -o main
+chmod +x ./main
+./main
 
 ==================================================================
